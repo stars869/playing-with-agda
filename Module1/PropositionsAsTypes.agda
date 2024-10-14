@@ -1,4 +1,4 @@
-module Introduction.PropositionsAsTypes where 
+module Module1.PropositionsAsTypes where 
 
 open import Agda.Builtin.Nat hiding (_<_; _-_)
 open import Agda.Builtin.Bool 

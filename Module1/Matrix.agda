@@ -1,9 +1,9 @@
-module Introduction.Matrix where 
+module Module1.Matrix where 
 
 import Agda.Builtin.Nat as Nat 
 open import Agda.Builtin.Nat hiding (_+_; _*_; zero)
 open import Agda.Builtin.Bool 
-open import Introduction.PropositionsAsTypes
+open import Module1.PropositionsAsTypes
 
 
 _ℕ≤ᵇ_ : Nat -> Nat -> Bool 

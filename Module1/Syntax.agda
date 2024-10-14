@@ -1,4 +1,4 @@
-module Introduction.Syntax where 
+module Module1.Syntax where 
 
 open import Agda.Builtin.Nat 
 open import Agda.Builtin.Bool
